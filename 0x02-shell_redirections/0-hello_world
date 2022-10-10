@@ -1,2 +1,2 @@
-#!/bib/bash
-echo -e "Hello, World"
+#!/bin/bash
+printf "Hello, World\n"
